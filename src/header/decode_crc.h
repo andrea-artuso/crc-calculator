@@ -1,7 +1,7 @@
 /*
-	Author:			Andrea Artuso
-	Website:		https://www.andrea-artuso.dev/
-	Github:			https://www.github.com/andrea-artuso
+	Author:		Andrea Artuso
+	Website:	https://www.andrea-artuso.dev/
+	Github:		https://www.github.com/andrea-artuso
 
 	Last update:	26/02/2023
 */
